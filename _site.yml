@@ -13,9 +13,9 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "CB"
-      href: Page1.html
+      href: CB.html
     - text: "FRAM"
-      href: Page2.html
+      href: FRAM.html
     - icon: fab fa-github
       href: https://github.com/noaa-nwfsc/noaa-nwfsc.github.io
 theme: css/nmfs-palette-theme.css
