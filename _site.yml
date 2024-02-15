@@ -7,7 +7,7 @@ output_dir: "docs"
 base_url: https://noaa-nwfsc.github.io
 navbar:
   logo: 
-    image: images/NOAA_Fisheries_logo_vertical.png
+    image: images/noaa_digital_logo-2022.png
   search: false
   right:
     - text: "Home"
