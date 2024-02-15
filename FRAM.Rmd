@@ -1,5 +1,5 @@
 ---
-title: Page 2
+title: FRAM
 output:
   distill::distill_article:
     self_contained: false
