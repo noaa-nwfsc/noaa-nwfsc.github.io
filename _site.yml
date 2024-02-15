@@ -1,23 +1,23 @@
 name: "."
-title: "NOAA Distill Website"
+title: "NWFSC GitHub Org"
 description: |
-  NMFS R User Group events and materials
+  NOAA Fisheries Northwest Fisheries Science Center GitHub organization
 favicon: "favicon.ico"
 output_dir: "docs"
-base_url: https://nmfs-opensci.github.io/NOAA-distill-website
+base_url: https://noaa-nwfsc.github.io
 navbar:
   logo: 
-    image: images/nmfs-opensci-logo.png
+    image: images/NOAA_Fisheries_logo_vertical.png
   search: false
   right:
     - text: "Home"
       href: index.html
-    - text: "Page 1"
+    - text: "CB"
       href: Page1.html
-    - text: "Page 2"
+    - text: "FRAM"
       href: Page2.html
     - icon: fab fa-github
-      href: https://github.com/nmfs-opensci/NOAA-distill-website
+      href: https://github.com/noaa-nwfsc/noaa-nwfsc.github.io
 theme: css/nmfs-palette-theme.css
 output:
   distill::distill_article:
