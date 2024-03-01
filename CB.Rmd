@@ -3,7 +3,7 @@ title: CB
 output:
   distill::distill_article:
     self_contained: false
-    toc: true
+    toc: false
     toc_depth: 3
 ---
 
