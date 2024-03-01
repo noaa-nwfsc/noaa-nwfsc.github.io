@@ -3,7 +3,7 @@ title: FRAM
 output:
   distill::distill_article:
     self_contained: false
-    toc: true
+    toc: false
     toc_depth: 3
 ---
 
@@ -17,11 +17,10 @@ d-title {
   }
 ```
 
-# Edit!
+# FRAM Division
 
-Click 'edit' and GitHub will guide you through putting in a pull-request to edit.
+To find any repositories with the `nwfsc-fram` tag, click [nwfsc-fram search](https://github.com/search?q=topic%3Anwfsc-fram+org%3Anoaa-nwfsc&type=Repositories)
 
-# Division or program
 
 More info
 
