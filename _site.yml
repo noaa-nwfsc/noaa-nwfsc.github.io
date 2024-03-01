@@ -16,8 +16,10 @@ navbar:
       href: CB.html
     - text: "FRAM"
       href: FRAM.html
-    - text: "Demo"
-      href: Trestle.html
+    - text: "FE"
+      href: FE.html
+    - text: "EFS"
+      href: EFS.html   
     - icon: fab fa-github
       href: https://github.com/noaa-nwfsc/noaa-nwfsc.github.io
 theme: css/nmfs-palette-theme.css
