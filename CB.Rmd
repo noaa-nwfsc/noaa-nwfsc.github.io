@@ -28,5 +28,6 @@ To find any repositories with the `nwfsc-cb` tag, click [nwfsc-cb search](https:
 
 ## Genetics
 
+* [webpage](https://noaa-nwfsc.github.io/CB_Genetics_Landing_Page/)
 * [repos with nwfsc-cb-genetics tag](https://github.com/search?q=topic%3Anwfsc-cb-genetics+org%3Anoaa-nwfsc&type=Repositories)
 
